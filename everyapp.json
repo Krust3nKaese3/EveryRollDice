@@ -1,0 +1,7 @@
+{
+  "name": "Würfel Roller",
+  "version": "1.0.0",
+  "description": "Würfle mit 1-6 Würfeln, mit Schüttel-Funktion und Historie",
+  "entrypoint": "index.html",
+  "permissions": ["storage", "sensors", "vibration"]
+}
